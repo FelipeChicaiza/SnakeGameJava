@@ -84,4 +84,7 @@ public class Game {
                 break;
         }
     }
+    //I still need to find a way to display this probably ill end up redoing everything again but ill try to do it here
 }
+
+
